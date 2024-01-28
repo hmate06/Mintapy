@@ -7,7 +7,7 @@ FEHER = (255, 255, 255)
 
 pygame.init()
 
-screen = pygame.display.set_mode((600, 600))
+screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption('Mintapy')
 
 háttér_színe = SZIN

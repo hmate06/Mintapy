@@ -5,7 +5,7 @@ pygame.init()
 
 # játékablak létrehozása
 # dupla () --> "tuple" Több érték tárolása egy változón belül
-ablak = pygame.display.set_mode((600, 300))
+ablak = pygame.display.set_mode((800, 600))
 
 # - ablak címének megváltoztatása
 pygame.display.set_caption('Alapok')
